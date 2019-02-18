@@ -9,6 +9,9 @@
 - [Two knights Defense II](#two-knights-defense-ii)
 - [The most common opening traps, how to continue?](#the-most-common-opening-traps-how-to-continue)
 - [How to open a diagnoal ||: sac piece!](#how-to-open-a-diagnoal--sac-piece)
+- [Stop castling](#stop-castling)
+- [The knight's power in Cambridge Springs defense](#the-knights-power-in-cambridge-springs-defense)
+- [the plan to attack in Caro Kann defense](#the-plan-to-attack-in-caro-kann-defense)
 
 <!-- tocstop -->
 
@@ -278,4 +281,140 @@ bKg8,Qd8,Ra8,e8,Be7,e6,Nf6,Pa7,b7,f7,g6,h6,d5
 White to move.
 
 r2qr1k1/pp2bp2/4bnpp/3p4/3P3B/2NQ4/PPB2PPP/R4RK1 w - - 0 1
+```
+
+## Stop castling
+
+```
+wKg1,Qe2,Ra1,f1,Bc1,Nf3,b1,Pc4,d4,a2,b2,f2,g2,h2
+bKe8,Qd8,Ra8,h8,Bg7,Nd7,f6,Pa7,b7,c7,e7,f7,h7,g6
+White to move.
+
+r2qk2r/pppnppbp/5np1/8/2PP4/5N2/PP2QPPP/RNB2RK1 w kq - 0 1
+```
+
+```
+wKg1,Qd1,Ra1,f1,Bc4,c1,Nf3,b1,Pd4,e4,h3,a2,f2,g2
+bKe8,Qd8,Ra8,h8,Bc8,b6,Ne7,c6,Pa7,b7,c7,f7,g7,h7,d6
+White to move.
+
+r1bqk2r/ppp1nppp/1bnp4/8/2BPP3/5N1P/P4PP1/RNBQ1RK1 w kq - 0 1
+```
+
+```
+wKg1,Qf3,Ra1,f1,Bc1,Ng5,c3,Pc4,d4,a3,e3,b2,f2,g2,h2
+bKe8,Qe7,Ra8,h8,Bg7,Nb8,f6,Pa7,h7,b6,c6,d6,e6,g6,f5
+White to move.
+
+rn2k2r/p3q1bp/1ppppnp1/5pN1/2PP4/P1N1PQ2/1P3PPP/R1B2RK1 w kq - 0 1
+```
+
+```
+wKe1,Qd1,Ra1,h1,Bc4,d2,Nc3,f3,Pc5,e3,a2,b2,f2,g2,h2
+bKg8,Qd8,Ra8,f8,Bc8,g7,Nf6,b4,Pa7,b7,e7,f7,h7,g6
+Black to move.
+
+r1bq1rk1/pp2ppbp/5np1/2P5/1nB5/2N1PN2/PP1B1PPP/R2QK2R b - - 0 1
+```
+
+```
+wKg1,Qe2,Ra1,f1,Nc4,Pf5,e4,c3,a2,b2,g2,h2
+bKe8,Qg5,Ra8,h8,Bh3,Pa7,b7,c7,g7,h7,f6,c5
+White to move.
+
+r3k2r/ppp3pp/5p2/2p2Pq1/2N1P3/2P4b/PP2Q1PP/R4RK1 w kq - 0 1
+```
+
+```
+wKg1,Qc2,Ra1,f1,Bh4,e2,Nf3,d2,Pe4,a2,b2,f2,g2,h2
+bKe8,Qd8,Rc8,h8,Bf8,b7,Nd7,f6,Pf7,g7,a6,h6,b5,c5,d5
+White to move.
+
+2rqkb1r/1b1n1pp1/p4n1p/1ppp4/4P2B/5N2/PPQNBPPP/R4RK1 w k - 0 1
+```
+
+## The knight's power in Cambridge Springs defense
+
+```
+wKg1,Qc2,Rc1,f1,Be2,Nc4,e4,Pd4,e3,a2,b2,f2,g2,h2
+bKg8,Qc7,Ra8,d8,Bd7,e7,Nf6,Pa7,b7,f7,g7,h7,c6,e6
+White to move.
+
+r2r2k1/ppqbbppp/2p1pn2/8/2NPN3/4P3/PPQ1BPPP/2R2RK1 w - - 0 1
+
+what is best move?
+
+A ... 1.Nf6
+B ... 1.Ne5
+C ... 1.Nc5
+```
+
+```
+wKe1,Qc2,Ra1,h1,Bd3,Nc4,c3,Pb4,d4,a3,e3,f2,g2,h2
+bKg8,Qc7,Ra8,f8,Bc8,e7,Nf6,Pa7,f7,g7,h7,b6,c6,e6
+White to move.
+
+r1b2rk1/p1q1bppp/1pp1pn2/8/1PNP4/P1NBP3/2Q2PPP/R3K2R w - - 0 1
+
+How to continue?
+```
+
+```
+wKg1,Qc2,Ra1,f1,Bc4,Nc3,f3,Pd4,e3,a2,b2,f2,g2,h2
+bKg8,Qa5,Ra8,f8,Bc8,b4,Nf6,Pa7,f7,g7,h7,b6,c6,e6
+White to move.
+
+r1b2rk1/p4ppp/1pp1pn2/q7/1bBP4/2N1PN2/PPQ2PPP/R4RK1 w - - 0 1
+
+how to attack?
+```
+
+## the plan to attack in Caro Kann defense
+
+```
+wKe1,Qd1,Ra1,h1,Bc1,f1,Nb1,g1,Pd4,a2,b2,c2,f2,g2,h2
+bKe8,Qd8,Ra8,h8,Bc8,f8,Nb8,g8,Pa7,b7,e7,f7,g7,h7,d5
+White to move.
+
+rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 1
+```
+
+```
+wKg1,Qb3,Ra1,f1,Bf4,d3,Nf3,d2,Pd4,c3,a2,b2,f2,g2,h2
+bKg8,Qc8,Ra8,f8,Be7,g4,Nc6,f6,Pa7,b7,f7,g7,h7,e6,d5
+White to move.
+
+r1q2rk1/pp2bppp/2n1pn2/3p4/3P1Bb1/1QPB1N2/PP1N1PPP/R4RK1 w - - 0 1
+```
+
+```
+wKg1,Qh3,Re1,f1,Ng5,d2,Pd4,f4,g4,c3,a2,b2,h2
+bKg8,Qe7,Ra8,c8,Nc6,f6,Pa7,b7,f7,g7,e6,g6,d5
+White to move.
+
+r1r3k1/pp2qpp1/2n1pnp1/3p2N1/3P1PP1/2P4Q/PP1N3P/4RRK1 w - - 0 1
+```
+
+```
+wKg1,Qb3,Re1,f1,Be5,Nd2,Pd4,c3,a2,b2,f2,g2,h2
+bKg8,Qc8,Ra8,f8,Be7,Nf6,Pa7,b7,f7,g7,e6,g6,d5
+White to move.
+
+r1q2rk1/pp2bpp1/4pnp1/3pB3/3P4/1QP5/PP1N1PPP/4RRK1 w - - 0 1
+```
+
+```
+wKg1,Qd1,Ra1,e1,Bf4,d3,Ne5,Pd4,c3,a2,b2,f2,g2,h2
+bKg8,Qc8,Ra8,f8,Be7,Nc6,f6,Pf7,g7,h7,a6,e6,b5,d5
+White to move.
+
+r1q2rk1/4bppp/p1n1pn2/1p1pN3/3P1B2/2PB4/PP3PPP/R2QR1K1 w - - 0 1
+```
+
+```
+wKg1,Qg3,Re1,f1,Bd3,Nd2,Pd4,c3,f3,a2,b2,g2,h2
+bKg8,Qd7,Ra8,f8,Nc6,f6,Pa7,b7,f7,g7,e6,g6,d5
+White to move.
+
+r4rk1/pp1q1pp1/2n1pnp1/3p4/3P4/2PB1PQ1/PP1N2PP/4RRK1 w - - 0 1
 ```
