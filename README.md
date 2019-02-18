@@ -12,6 +12,8 @@
 - [Stop castling](#stop-castling)
 - [The knight's power in Cambridge Springs defense](#the-knights-power-in-cambridge-springs-defense)
 - [the plan to attack in Caro Kann defense](#the-plan-to-attack-in-caro-kann-defense)
+- [The main line in Cambridge Springs defense](#the-main-line-in-cambridge-springs-defense)
+- [Mating pattern training |||: cooperated by Knight and Bishop](#mating-pattern-training--cooperated-by-knight-and-bishop)
 
 <!-- tocstop -->
 
@@ -463,3 +465,76 @@ White to move.
 FEN:r4rk1/pp1q1pp1/2n1pnp1/3p4/3P4/2PB1PQ1/PP1N2PP/4RRK1 w - - 0 1
 ```
 [See board](https://lichess.org/editor/r4rk1/pp1q1pp1/2n1pnp1/3p4/3P4/2PB1PQ1/PP1N2PP/4RRK1_w_-_-_0_1)
+
+## The main line in Cambridge Springs defense
+
+```
+wKe1,Qd1,Ra1,h1,Bg5,f1,Nc3,f3,Pd4,e3,a2,b2,f2,g2,h2
+bKe8,Qa5,Ra8,h8,Bc8,f8,Nd7,f6,Pa7,b7,f7,g7,h7,c6,d5
+White to move.
+
+FEN:r1b1kb1r/pp1n1ppp/2p2n2/q2p2B1/3P4/2N1PN2/PP3PPP/R2QKB1R w - - 0 1
+
+What is the best move?
+A. 1... Bf6
+B. 1... Nd2
+C. 1... Bd3
+```
+[See board](https://lichess.org/editor/r1b1kb1r/pp1n1ppp/2p2n2/q2p2B1/3P4/2N1PN2/PP3PPP/R2QKB1R_w_-_-_0_1)
+
+```
+wKe1,Qd2,Rc1,h1,Bh4,f1,Nc3,f3,Pd4,e3,a2,b2,f2,g2,h2
+bKe8,Qa5,Ra8,h8,Bc8,b4,Nd7,d5,Pa7,b7,f7,g7,e6,h6,c5
+White to move.
+
+FEN:r1b1k2r/pp1n1pp1/4p2p/q1pn4/1b1P3B/2N1PN2/PP1Q1PPP/2R1KB1R w - - 0 1
+
+How to continue?
+```
+[See board](https://lichess.org/editor/r1b1k2r/pp1n1pp1/4p2p/q1pn4/1b1P3B/2N1PN2/PP1Q1PPP/2R1KB1R_w_-_-_0_1)
+
+```
+wKg1,Qc2,Ra1,f1,Bd3,Nc3,f3,Pd4,e3,a2,b2,f2,g2,h2
+bKe8,Qa5,Ra8,h8,Bc8,d6,Nf6,Pa7,b7,f7,g7,c6,h6,d5
+White to move.
+
+FEN:r1b1k2r/pp3pp1/2pb1n1p/q2p4/3P4/2NBPN2/PPQ2PPP/R4RK1 w - - 0 1
+
+How to attack?
+```
+[See board](https://lichess.org/editor/r1b1k2r/pp3pp1/2pb1n1p/q2p4/3P4/2NBPN2/PPQ2PPP/R4RK1_w_-_-_0_1)
+
+## Mating pattern training |||: cooperated by Knight and Bishop
+
+```
+wKc1,Qd2,Rd1,h1,Be2,Nh3,b1,Pd5,c4,g4,f3,a2,b2,h2
+bKc8,Qb4,Rd8,e8,Bg6,Nd7,a5,Pa7,b7,c7,f7,g7,h7
+Black to move.
+
+FEN:2krr3/pppn1ppp/6b1/n2P4/1qP3P1/5P1N/PP1QB2P/1NKR3R b - - 0 1
+
+plan to mate in 2
+```
+[See board](https://lichess.org/editor/2krr3/pppn1ppp/6b1/n2P4/1qP3P1/5P1N/PP1QB2P/1NKR3R_b_-_-_0_1)
+
+```
+wKg1,Qc2,Rd1,Be6,Ng6,c3,Pd4,a2,b2,f2,g2,h2
+bKh7,Qa5,Rc8,e8,Be7,b5,Nf6,Pa7,b7,g7,h6
+White to move.
+
+FEN:2r1r3/pp2b1pk/4BnNp/qb6/3P4/2N5/PPQ2PPP/3R2K1 w - - 0 1
+
+plan to mate in 3
+```
+[See board](https://lichess.org/editor/2r1r3/pp2b1pk/4BnNp/qb6/3P4/2N5/PPQ2PPP/3R2K1_w_-_-_0_1)
+
+```
+wKe1,Qd1,Ra1,h1,Bg5,c4,Nd5,g1,Pe4,a2,b2,c2,f2,g2,h2
+bKe8,Qd8,Ra8,h8,Bd7,d4,Ne7,c6,Pa7,b7,c7,f7,h7,d6,g6
+White to move.
+
+FEN:r2qk2r/pppbnp1p/2np2p1/3N2B1/2BbP3/8/PPP2PPP/R2QK1NR w KQkq - 0 1
+
+plan to mate in 3
+```
+[See board](https://lichess.org/editor/r2qk2r/pppbnp1p/2np2p1/3N2B1/2BbP3/8/PPP2PPP/R2QK1NR_w_KQkq_-_0_1)
