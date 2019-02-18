@@ -1,3 +1,17 @@
+# All practices
+
+<!-- toc -->
+
+- [pin or discovered attack - 1](#pin-or-discovered-attack---1)
+- [Set A pattern in the discovered attack](#set-a-pattern-in-the-discovered-attack)
+- [pin or discovered attack? - 2](#pin-or-discovered-attack---2)
+- [How to plan to turn a pin to a discovered attack](#how-to-plan-to-turn-a-pin-to-a-discovered-attack)
+- [Two knights Defense II](#two-knights-defense-ii)
+- [The most common opening traps, how to continue?](#the-most-common-opening-traps-how-to-continue)
+- [How to open a diagnoal ||: sac piece!](#how-to-open-a-diagnoal--sac-piece)
+
+<!-- tocstop -->
+
 ## pin or discovered attack - 1
 
 ```
