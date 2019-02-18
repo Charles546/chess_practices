@@ -16,6 +16,8 @@
 - [Mating pattern training |||: cooperated by Knight and Bishop](#mating-pattern-training--cooperated-by-knight-and-bishop)
 - [Mating pattern training I: Cooperated by Knight and Queen](#mating-pattern-training-i-cooperated-by-knight-and-queen)
 - [winning strategy in rook end game. tie down your opponent's rook!](#winning-strategy-in-rook-end-game-tie-down-your-opponents-rook)
+- [what is the best reply? Predition is your protection.](#what-is-the-best-reply-predition-is-your-protection)
+- [How to play the minors endgame with IQP?](#how-to-play-the-minors-endgame-with-iqp)
 
 <!-- tocstop -->
 
@@ -614,3 +616,98 @@ FEN:2r3k1/5p1p/6p1/3R4/1p6/6P1/1P3PKP/8 w - - 0 1
 how to win?
 ```
 [See board](https://lichess.org/editor/2r3k1/5p1p/6p1/3R4/1p6/6P1/1P3PKP/8_w_-_-_0_1)
+
+## what is the best reply? Predition is your protection.
+
+```
+wKg1,Qd1,Ra1,f1,Be7,d3,Ne2,Pd4,a2,b2,f2,g2,h2
+bKg8,Qd8,Ra8,f8,Bc8,Nb8,c3,Pb7,f7,g7,h7,a6,d6,e6
+White to move.
+
+FEN:rnbq1rk1/1p2Bppp/p2pp3/8/3P4/2nB4/PP2NPPP/R2Q1RK1 w - - 0 1
+
+choose the best move
+
+A. 1... Bd8
+B. 1... Nc3
+C. 1... Bh7
+```
+[See board](https://lichess.org/editor/rnbq1rk1/1p2Bppp/p2pp3/8/3P4/2nB4/PP2NPPP/R2Q1RK1_w_-_-_0_1)
+
+```
+wKg1,Qe7,Rg3,e1,Nd4,Pc3,a2,b2,f2,g2,h2
+bKh8,Qc5,Rf8,d6,Bg7,Pf7,h7,a6,e6,b5
+White to move.
+
+FEN:5r1k/4Qpbp/p2rp3/1pq5/3N4/2P3R1/PP3PPP/4R1K1 w - - 0 1
+
+Analyze after 1.Ne6, try to look for the best replies for both side
+```
+[See board](https://lichess.org/editor/5r1k/4Qpbp/p2rp3/1pq5/3N4/2P3R1/PP3PPP/4R1K1_w_-_-_0_1)
+
+```
+wKg1,Qg4,Rc3,e1,Bb1,Nf3,Pa3,e3,h3,b2,f2,g2
+bKh8,Qd6,Rd8,h6,Ba4,Nc5,Pa7,f7,g7,h7,b6,d5
+White to move.
+
+FEN:3r3k/p4ppp/1p1q3r/2np4/b5Q1/P1R1PN1P/1P3PP1/1B2R1K1 w - - 0 1
+
+Analyze after 1.Rc5, try to look for the best replies for both side
+```
+[See board](https://lichess.org/editor/3r3k/p4ppp/1p1q3r/2np4/b5Q1/P1R1PN1P/1P3PP1/1B2R1K1_w_-_-_0_1)
+
+## How to play the minors endgame with IQP?
+
+```
+wKe1,Rd1,Bb3,Nd4,Pe3,a2,b2,f2,g2,h2
+bKf8,Rc1,Be6,Nd6,Pb7,f7,g7,h7,a6,d5
+Black to move.
+
+FEN:5k2/1p3ppp/p2nb3/3p4/3N4/1B2P3/PP3PPP/2rRK3 b - - 0 1
+```
+[See board](https://lichess.org/editor/5k2/1p3ppp/p2nb3/3p4/3N4/1B2P3/PP3PPP/2rRK3_b_-_-_0_1)
+
+```
+wKd3,Ra1,c1,Nd4,Pe3,a2,b2,f2,g2,h2
+bKg8,Ra8,c8,Be6,Pb7,f7,g7,h7,a6,d5
+White to move.
+
+FEN:r1r3k1/1p3ppp/p3b3/3p4/3N4/3KP3/PP3PPP/R1R5 w - - 0 1
+```
+[See board](https://lichess.org/editor/r1r3k1/1p3ppp/p3b3/3p4/3N4/3KP3/PP3PPP/R1R5_w_-_-_0_1)
+
+```
+wKf2,Qe3,Bc2,Pa4,b3,c3,f3,g3,g2
+bKg7,Qc5,Be6,Pb7,f7,h7,a6,g6,d5
+Black to move.
+
+FEN:8/1p3pkp/p3b1p1/2qp4/P7/1PP1QPP1/2B2KP1/8 b - - 0 1
+```
+[See board](https://lichess.org/editor/8/1p3pkp/p3b1p1/2qp4/P7/1PP1QPP1/2B2KP1/8_b_-_-_0_1)
+
+```
+wKg1,Qd1,Rc1,e1,Ne5,b3,Pd4,a2,b2,f2,g2,h2
+bKg8,Qd7,Rc8,f8,Nf6,d5,Pa7,b7,f7,g7,h7,e6
+Black to move.
+
+FEN:2r2rk1/pp1q1ppp/4pn2/3nN3/3P4/1N6/PP3PPP/2RQR1K1 b - - 0 1
+```
+[See board](https://lichess.org/editor/2r2rk1/pp1q1ppp/4pn2/3nN3/3P4/1N6/PP3PPP/2RQR1K1_b_-_-_0_1)
+
+```
+wKd4,Ne2,Pb5,g5,f4,h4,a3,e3
+bKd6,Bc8,Pa7,h7,b6,g6,d5,f5
+White to move.
+
+FEN:2b5/p6p/1p1k2p1/1P1p1pP1/3K1P1P/P3P3/4N3/8 w - - 0 1
+```
+[See board](https://lichess.org/editor/2b5/p6p/1p1k2p1/1P1p1pP1/3K1P1P/P3P3/4N3/8_w_-_-_0_1)
+
+```
+wKf2,Nb3,Pb4,e3,f3,a2,g2,h2
+bKg8,Bb7,Nf6,Pf7,h7,a6,b6,g6,d5
+Black to move.
+
+FEN:6k1/1b3p1p/pp3np1/3p4/1P6/1N2PP2/P4KPP/8 b - - 0 1
+```
+[See board](https://lichess.org/editor/6k1/1b3p1p/pp3np1/3p4/1P6/1N2PP2/P4KPP/8_b_-_-_0_1)
