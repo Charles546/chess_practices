@@ -14,6 +14,8 @@
 - [the plan to attack in Caro Kann defense](#the-plan-to-attack-in-caro-kann-defense)
 - [The main line in Cambridge Springs defense](#the-main-line-in-cambridge-springs-defense)
 - [Mating pattern training |||: cooperated by Knight and Bishop](#mating-pattern-training--cooperated-by-knight-and-bishop)
+- [Mating pattern training I: Cooperated by Knight and Queen](#mating-pattern-training-i-cooperated-by-knight-and-queen)
+- [winning strategy in rook end game. tie down your opponent's rook!](#winning-strategy-in-rook-end-game-tie-down-your-opponents-rook)
 
 <!-- tocstop -->
 
@@ -538,3 +540,77 @@ FEN:r2qk2r/pppbnp1p/2np2p1/3N2B1/2BbP3/8/PPP2PPP/R2QK1NR w KQkq - 0 1
 plan to mate in 3
 ```
 [See board](https://lichess.org/editor/r2qk2r/pppbnp1p/2np2p1/3N2B1/2BbP3/8/PPP2PPP/R2QK1NR_w_KQkq_-_0_1)
+
+## Mating pattern training I: Cooperated by Knight and Queen
+
+```
+wKg1,Qf5,Ng5,Pc4,e4,d3,g3,h2
+bKg7,Re7,Nc6,c3,Pc7,a6,d6,e5,b4
+White to move.
+
+FEN:8/2p1r1k1/p1np4/4pQN1/1pP1P3/2nP2P1/7P/6K1 w - - 0 1
+
+mate in 2
+```
+[See board](https://lichess.org/editor/8/2p1r1k1/p1np4/4pQN1/1pP1P3/2nP2P1/7P/6K1_w_-_-_0_1)
+
+```
+wKb1,Qe3,Rh4,h1,Bd3,Ne4,Pc3,g3,a2,b2,c2,f2
+bKg8,Qc7,Rb8,d8,Bb7,g7,Pa7,f7,b6,e6,g6,c5
+White to move.
+
+FEN:1r1r2k1/pbq2pb1/1p2p1p1/2p5/4N2R/2PBQ1P1/PPP2P2/1K5R w - - 0 1
+
+mate in 4
+```
+[See board](https://lichess.org/editor/1r1r2k1/pbq2pb1/1p2p1p1/2p5/4N2R/2PBQ1P1/PPP2P2/1K5R_w_-_-_0_1)
+
+```
+wKg1,Qg4,Rg7,c1,Ng5,Pa2,b2,f2,g2,h2
+bKh8,Qd7,Ra8,c8,Pa7,b7,f6,g6,d5
+White to move.
+
+FEN:r1r4k/pp1q2R1/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1 w - - 0 1
+
+mate in 9
+```
+[See board](https://lichess.org/editor/r1r4k/pp1q2R1/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1_w_-_-_0_1)
+
+## winning strategy in rook end game. tie down your opponent's rook!
+
+```
+wKg1,Rd7,Pa4,e4,b3,f3,g2,h2
+bKg7,Re6,Pf7,h7,b6,f6,g6,a5
+White to move.
+
+FEN:8/3R1pkp/1p2rpp1/p7/P3P3/1P3P2/6PP/6K1 w - - 0 1
+
+Choose best move
+
+A. 1... Rb7
+B. 1... Rd5
+c. 1... Kf2
+```
+[See board](https://lichess.org/editor/8/3R1pkp/1p2rpp1/p7/P3P3/1P3P2/6PP/6K1_w_-_-_0_1)
+
+```
+wKg2,Rd5,Pa3,g3,b2,f2,h2
+bKg8,Rc8,Pb7,f7,h7,a6,g6
+White to move.
+
+FEN:2r3k1/1p3p1p/p5p1/3R4/8/P5P1/1P3PKP/8 w - - 0 1
+
+continue
+```
+[See board](https://lichess.org/editor/2r3k1/1p3p1p/p5p1/3R4/8/P5P1/1P3PKP/8_w_-_-_0_1)
+
+```
+wKg2,Rd5,Pg3,b2,f2,h2
+bKg8,Rc8,Pf7,h7,g6,b4
+White to move.
+
+FEN:2r3k1/5p1p/6p1/3R4/1p6/6P1/1P3PKP/8 w - - 0 1
+
+how to win?
+```
+[See board](https://lichess.org/editor/2r3k1/5p1p/6p1/3R4/1p6/6P1/1P3PKP/8_w_-_-_0_1)
