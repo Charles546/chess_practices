@@ -18,6 +18,9 @@
 - [winning strategy in rook end game. tie down your opponent's rook!](#winning-strategy-in-rook-end-game-tie-down-your-opponents-rook)
 - [what is the best reply? Predition is your protection.](#what-is-the-best-reply-predition-is-your-protection)
 - [How to play the minors endgame with IQP?](#how-to-play-the-minors-endgame-with-iqp)
+- [How to win when you have a piece up?](#how-to-win-when-you-have-a-piece-up)
+- [An active king and the key to win in rook endgame](#an-active-king-and-the-key-to-win-in-rook-endgame)
+- [The 1st thing you need to do quickly in openings](#the-1st-thing-you-need-to-do-quickly-in-openings)
 
 <!-- tocstop -->
 
@@ -711,3 +714,131 @@ Black to move.
 FEN:6k1/1b3p1p/pp3np1/3p4/1P6/1N2PP2/P4KPP/8 b - - 0 1
 ```
 [See board](https://lichess.org/editor/6k1/1b3p1p/pp3np1/3p4/1P6/1N2PP2/P4KPP/8_b_-_-_0_1)
+
+## How to win when you have a piece up?
+
+```
+wKh3,Ra7,Be3,Pa4,c4,g3,b2,f2
+bKg8,Rd1,Bf6,Ne1,Pe7,h7,g6,c5
+Black to move.
+
+FEN:6k1/R3p2p/5bp1/2p5/P1P5/4B1PK/1P3P2/3rn3 b - - 0 1
+
+What the bese move for black?
+
+A. 1...h5
+B. 1...Nd3
+C. 1...Bd4
+```
+[See board](https://lichess.org/editor/6k1/R3p2p/5bp1/2p5/P1P5/4B1PK/1P3P2/3rn3_b_-_-_0_1)
+
+```
+wKe4,Rb5,Pa5,c4,b3,g3
+bKf6,Ra2,Nd3,Pg6,c5,e5,g5
+Black to move.
+
+FEN:8/8/5kp1/PRp1p1p1/2P1K3/1P1n2P1/r7/8 b - - 0 1
+```
+[Seer board](https://lichess.org/editor/8/8/5kp1/PRp1p1p1/2P1K3/1P1n2P1/r7/8_b_-_-_0_1)
+
+```
+wKg4,Rb8,Pf5,a4,b4,c4,h4
+bKh7,Rd2,Ne4,Pa7,f7,f6,g6
+Black to move.
+
+FEN:1R6/p4p1k/5pp1/5P2/PPP1n1KP/8/3r4/8 b - - 0 1
+
+How to win SAFELY?
+```
+[Seer board](https://lichess.org/editor/1R6/p4p1k/5pp1/5P2/PPP1n1KP/8/3r4/8_b_-_-_0_1)
+
+## An active king and the key to win in rook endgame
+
+```
+wKg1,Ra1,Pb4,a2,g2,h2
+bKg8,Rd2,Ph7,a6,g6,d5
+Black to move.
+
+FEN:6k1/7p/p5p1/3p4/1P6/8/P2r2PP/R5K1 b - - 0 1
+
+What is best move to continue?
+
+A. 1...Kf7
+B. 1...Rb2
+C. 1...d4
+```
+[Seer board](https://lichess.org/editor/6k1/7p/p5p1/3p4/1P6/8/P2r2PP/R5K1_b_-_-_0_1)
+
+```
+wKf1,Rb5,Pc4,e4,e3
+bKg6,Ra2,Pa7,c5,g5,g3
+Black to move.
+
+FEN:8/p7/6k1/1Rp3p1/2P1P3/4P1p1/r7/5K2 b - - 0 1
+```
+[Seer board](https://lichess.org/editor/8/p7/6k1/1Rp3p1/2P1P3/4P1p1/r7/5K2_b_-_-_0_1)
+
+```
+wKg1,Rh6,Pc4,b3,e3,g3,h2
+bKe6,Ra2,Pc6,c5,f5,g5
+Black to move.
+
+FEN:8/8/2p1k2R/2p2pp1/2P5/1P2P1P1/r6P/6K1 b - - 0 1
+```
+[Seer board](https://lichess.org/editor/8/8/2p1k2R/2p2pp1/2P5/1P2P1P1/r6P/6K1_b_-_-_0_1)
+
+## The 1st thing you need to do quickly in openings
+
+```
+wKe1,Qd1,Ra1,h1,Bg2,c1,Ne4,g1,Pg3,a2,b2,e2,f2,h2
+bKe8,Qd8,Ra8,h8,Bc8,f8,Nc6,f6,Pa7,b7,f7,g7,h7,d4
+Black to move.
+
+FEN:r1bqkb1r/pp3ppp/2n2n2/8/3pN3/6P1/PP2PPBP/R1BQK1NR b KQkq - 0 1
+```
+[Seer board](https://lichess.org/editor/r1bqkb1r/pp3ppp/2n2n2/8/3pN3/6P1/PP2PPBP/R1BQK1NR_b_KQkq_-_0_1)
+
+```
+wKg1,Qd1,Ra1,f1,Bc4,c1,Nc3,f3,Pd4,e4,a2,b2,f2,g2,h2
+bKe8,Qd8,Ra8,h8,Bc8,b4,Nc6,f6,Pa7,b7,c7,f7,g7,h7,d6
+Black to move.
+
+FEN:r1bqk2r/ppp2ppp/2np1n2/8/1bBPP3/2N2N2/PP3PPP/R1BQ1RK1 b kq - 0 1
+```
+[Seer board](https://lichess.org/editor/r1bqk2r/ppp2ppp/2np1n2/8/1bBPP3/2N2N2/PP3PPP/R1BQ1RK1_b_kq_-_0_1)
+
+```
+wKe1,Qd1,Ra1,h1,Bf4,f1,Nf3,b1,Pe5,a3,b2,f2,g2,h2
+bKe8,Qd8,Ra8,h8,Bf8,d7,Ne7,c6,Pa7,b7,g7,h7,e6,d5
+White to move.
+
+FEN:r2qkb1r/pp1bn1pp/2n1p3/3pP3/5B2/P4N2/1P3PPP/RN1QKB1R w kq - 0 1
+```
+[Seer board](https://lichess.org/editor/r2qkb1r/pp1bn1pp/2n1p3/3pP3/5B2/P4N2/1P3PPP/RN1QKB1R_w_kq_-_0_1)
+
+```
+wKe1,Qd1,Ra1,h1,Bg3,f1,Nf3,Pe5,a3,f2,g2,h2
+bKg8,Qb6,Ra8,f8,Bd7,c5,Ng6,Pa7,g7,h7,e6,d5
+Black to move.
+
+FEN:r4rk1/p2b2pp/1q2p1n1/2bpP3/8/P4NB1/5PPP/R2QKB1R b - - 0 1
+```
+[Seer board](https://lichess.org/editor/r4rk1/p2b2pp/1q2p1n1/2bpP3/8/P4NB1/5PPP/R2QKB1R_b_-_-_0_1)
+
+```
+wKg1,Qe2,Ra1,f1,Bd3,c1,Nf3,b1,Pa4,d4,e4,b2,f2,g2,h2
+bKe8,Qc7,Ra8,h8,Bf8,b7,Nd7,f6,Pf7,g7,h7,a6,c6,e6,b5
+Black to move.
+
+FEN:r3kb1r/1bqn1ppp/p1p1pn2/1p6/P2PP3/3B1N2/1P2QPPP/RNB2RK1 b - - 0 1
+```
+[Seer board](https://lichess.org/editor/r3kb1r/1bqn1ppp/p1p1pn2/1p6/P2PP3/3B1N2/1P2QPPP/RNB2RK1_b_-_-_0_1)
+
+```
+wKe1,Qd1,Ra1,h1,Bc4,Nd2,Pd4,a3,e3,f2,g2,h2
+bKe7,Qc3,Ra8,h8,Bc8,Nb8,Pa7,b7,f7,h7,e6,f6,c5
+White to move.
+
+FEN:rnb4r/pp2kp1p/4pp2/2p5/2BP4/P1q1P3/3N1PPP/R2QK2R w - - 0 1
+```
+[Seer board](https://lichess.org/editor/rnb4r/pp2kp1p/4pp2/2p5/2BP4/P1q1P3/3N1PPP/R2QK2R_w_-_-_0_1)
